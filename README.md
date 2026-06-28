@@ -10,6 +10,6 @@ from stats import summarize
 summarize([1, 2, 3, 4, 5])
 ```
 
-## Fuctions
+## Functions
 
 - `summarize(numbers)` — prints mean, min, and max
